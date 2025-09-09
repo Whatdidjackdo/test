@@ -2,7 +2,7 @@
 <html>
 <head>
 <title> Jacks Repo test </title>
-<meta name = "description" conent= "Works created in Fall 2025 Hunter's IMA 750 class"/>
+<meta name = "description" content= "Works created in Fall 2025 Hunter's IMA 750 class"/>
 </head>
 <body>
 <h1></h1>
@@ -11,4 +11,5 @@
 <p> I plan</p>
 <img src="img/example.jpg" alt="digital film burn" />
 </body>
+</html>
 </html>
